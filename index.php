@@ -12,9 +12,8 @@
 		</div>
 	</div>
 	<div id="fh5co-portfolio">
-		<div class="fh5co-portfolio-item ">
-			<div class="fh5co-portfolio-figure animate-box"
-				style="background-image: url(images/Project/triangle\ \(1\).jpg);"></div>
+		<div class="fh5co-portfolio-item">
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/triangle\ \(1\).jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Fisrt Project</h2>
 				<p>
@@ -29,8 +28,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"
-				style="background-image: url(images/Project/main\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/main\ \(1\).jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Second Project</h2>
 				<p>
@@ -42,9 +40,8 @@
 				<p><a href="pages/ProjectTwo.php" class="btn btn-primary">Évolution</a></p>
 			</div>
 		</div>
-		<div class="fh5co-portfolio-item ">
-			<div class="fh5co-portfolio-figure animate-box"
-				style="background-image: url(images/Project/love\ \(1\).jpg);"></div>
+		<div class="fh5co-portfolio-item">
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/love\ \(1\).jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Third Project</h2>
 				<p>
@@ -62,8 +59,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"
-				style="background-image: url(images/Project/blonde\ \(2\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/blonde\ \(2\).jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Fourth Project</h2>
 				<p>
@@ -77,9 +73,8 @@
 				<p><a href="pages/ProjectFour.php" class="btn btn-primary">Évolution</a></p>
 			</div>
 		</div>
-		<div class="fh5co-portfolio-item ">
-			<div class="fh5co-portfolio-figure animate-box"
-				style="background-image: url(images/Project/all\ \(1\).jpg);"></div>
+		<div class="fh5co-portfolio-item">
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/all\ \(1\).jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Fifth Project</h2>
 				<p>
@@ -94,8 +89,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"
-				style="background-image: url(images/Project/doodle\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/doodle\ \(1\).jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Sixth Project</h2>
 				<p>
@@ -108,9 +102,8 @@
 				<p><a href="pages/ProjectSix.php" class="btn btn-primary">Évolution</a></p>
 			</div>
 		</div>
-		<div class="fh5co-portfolio-item ">
-			<div class="fh5co-portfolio-figure animate-box"
-				style="background-image: url(images/Project/monster\ \(1\).jpg);"></div>
+		<div class="fh5co-portfolio-item">
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/monster\ \(1\).jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Seventh Project</h2>
 				<p>
@@ -122,8 +115,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"
-				style="background-image: url(images/Project/visage\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/visage\ \(1\).jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Eighth Project</h2>
 				<p>
@@ -135,6 +127,18 @@
 					les tâches de rousseurs et les grains de beautés sont quant à eux fait aux feutres.
 				</p>
 				<p><a href="pages/ProjectEight.php" class="btn btn-primary">Évolution</a></p>
+			</div>
+		</div>
+		<div class="fh5co-portfolio-item">
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/monster\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-description animate-box">
+				<h2>Ninth</h2>
+				<p>
+					Ce projet montre plusieurs dessins qui sont qualifiés « horreur »
+					par la représentation de personnages connus parodié en créatures effrayante,
+					de monstres mythiques et d’un personnage d’un livre d’épouvante.
+				</p>
+				<p><a href="pages/ProjectSeven.php" class="btn btn-primary">Évolution</a></p>
 			</div>
 		</div>
 	</div>
