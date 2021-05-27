@@ -23,9 +23,9 @@
 							autre choses quand je fais face à de la difficulté ou à me concentrer si je dessine.
 							J’écoute de tout, j’ai des goûts assez diversifiés pouvant aller du classique au
 							moderne.<br>
-							<img class="imgDN" src="images/notemusical.jpg">
-							<img class="imgDN" src="images/violon.jpg">
-							<img class="imgDN" src="images/rose.jpg">
+							<img class="imgDN" src="images/DNMADE/notemusical.jpg">
+							<img class="imgDN" src="images/DNMADE/violon.jpg">
+							<img class="imgDN" src="images/DNMADE/rose.jpg">
 							<br>
 							Je suis une grande lectrice, car je lis beaucoup et j’essaie de le faire
 							quotidiennement, je suis plus attirée vers les œuvres fantastique comme Harry Potter ou
@@ -34,10 +34,10 @@
 							Bollywood. J’aime le fantastique, l’horreur, la romance et l’animation japonaise; ses
 							thèmes sont assez récurrents dans mon art car la peur,l’irréel et les mangas m’inspirent
 							énormément dans la réalisations de mes œuvres.<br>
-							<img class="imgDN" src="images/hp.jpg">
-							<img class="imgDN" src="images/ca.jpg">
-							<img class="imgDN" src="images/inde.jpg">
-							<img class="imgDN" src="images/totoro.jpg">
+							<img class="imgDN" src="images/DNMADE/hp.jpg">
+							<img class="imgDN" src="images/DNMADE/ca.jpg">
+							<img class="imgDN" src="images/DNMADE/inde.jpg">
+							<img class="imgDN" src="images/DNMADE/totoro.jpg">
 							<br>
 							Je dessine très souvent avec crayons de couleurs que je maîtrise mieux que les feutres à
 							alcool et une majorité de mes compositions sont inachevés. Je peint aussi de temps en
@@ -49,21 +49,21 @@
 							ils montrent que tout est possible et que chaque œuvres même non réussi n’est pas un
 							échec mais une évolution des ses compétences et j’apprecie aussi la complexité de leurs
 							style ou ce qui apportes de nouveaux comme les expérience de De Vinci.<br>
-							<img class="imgDN" src="images/mickael.jpg">
-							<img class="imgDN" src="images/van.jpg">
-							<img class="imgDN" src="images/frida.jpg">
-							<img class="imgDN" src="images/vinci.jpg">
+							<img class="imgDN" src="images/DNMADE/mickael.jpg">
+							<img class="imgDN" src="images/DNMADE/van.jpg">
+							<img class="imgDN" src="images/DNMADE/frida.jpg">
+							<img class="imgDN" src="images/DNMADE/vinci.jpg">
 							<br>
 							Je pratique néanmoins des activités physiques en faisant de la danse, du roller quad ou
 							récemment du tennis quand c’est possible. Je suis une grande admirative des personnes
 							qui excercent le roller, le patinage artistique,la danse et la gymnastique car je n’ai
 							pas pu faire ses sports plus jeunes et qu’ils sont malgré tout des sports complexes,
 							fascinant et élégant.<br>
-							<img class="imgDN" src="images/danse.jpg">
-							<img class="imgDN" src="images/roller.jpg">
-							<img class="imgDN" src="images/tennis.jpg">
-							<img class="imgDN" src="images/gym.jpg">
-							<img class="imgDN" src="images/patin.jpg">
+							<img class="imgDN" src="images/DNMADE/danse.jpg">
+							<img class="imgDN" src="images/DNMADE/roller.jpg">
+							<img class="imgDN" src="images/DNMADE/tennis.jpg">
+							<img class="imgDN" src="images/DNMADE/gym.jpg">
+							<img class="imgDN" src="images/DNMADE/patin.jpg">
 							<br>
 							Les raisons de mon choix pour un DNMADE Graphisme sont que j’aime dessiner et j’hésites
 							beaucoup entre le graphisme/design et l’animation, et j’aimerai beaucoup savoir faire de
