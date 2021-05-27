@@ -13,95 +13,112 @@
 	</div>
 	<div class="jumbotron">
 		<h3>
-			Voici les différentes mains et ethnies que j’ai pu faire dans ce projet.
+			Partie 1 : Les signes du zodiaque 
 		</h3>
 	</div>
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (4).jpg">
+				<img src="../images/NineProject/1.jpg">
 				<div class="caption">
 					<p>
-						05/10/2019<br>
-						Stylo
+						Aquarius<br>
+						Signe du Verseau (21 janvier au 18 février)<br>
+						03/12/2021<br>
+						Crayons de couleurs, liner noir
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (2).jpg">
+				<img src="../images/NineProject/2.jpg">
 				<div class="caption">
 					<p>
-						18/10/2020<br>
-						Crayons de couleurs, Feutres
+						Aries<br>
+						Signe du Bélier (21 mars au 21 avril)<br>
+						17/05/2021<br>
+						Crayons de couleurs, liner noir et mauve<br>
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (3).jpg">
+				<img src="../images/NineProject/3.jpg">
 				<div class="caption">
 					<p>
-						18/10/2020<br>
-						Crayons de couleurs, Feutres
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-sm-6 col-md-4">
-			<div class="thumbnail">
-				<img src="../images/Project/main (5).jpg">
-				<div class="caption">
-					<p>
-						18/10/2020<br>
-						Crayons de couleurs, Feutres
+				        Taurus<br>
+						Signe du Taureau (21 avril au 21 mai)<br>
+						22/03/2021<br>
+						Crayons de couleurs, liner noir
+					
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (7).jpg">
+				<img src="../images/NineProject/0.jpg">
 				<div class="caption">
 					<p>
-						25/10/2020<br>
-						Crayons de couleurs
+						Gemini<br>
+						Signe des Gémeaux (21 avril au 21 juin)<br>
+						17/05/2021<br>
+						Crayons de couleurs, liner et feutre noir
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (6).jpg">
+				<img src="../images/NineProject/4.jpg">
 				<div class="caption">
 					<p>
-						25/03/2021<br>
-						Crayons de couleurs
+						Virgo<br>
+						Signe de la Vierge (23 août au 22 septembre)<br>
+						05/01/2021<br>
+						Crayons de couleurs, liner noir
 					</p>
 				</div>
 			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-sm-6 col-md-4">
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (8).jpg">
+				<img src="../images/NineProject/5.jpg">
 				<div class="caption">
 					<p>
-						25/03/2021<br>
-						Crayons de couleurs, Feutres
+					Libra<br>
+					Signe de la Balance (23 septembre au 22 octobre)<br>
+					24/04/2021<br>
+					Crayons de couleurs, liner noir
+						
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-md-4">
+			<div class="thumbnail">
+				<img src="../images/NineProject/6.jpg">
+				<div class="caption">
+					<p>
+						Scorpio<br>
+						Signe du Scorpion (23 octobre au 22 novembre)<br>
+						30/03/2021<br>
+						Crayons de couleurs, liner noir et rouge
+					</p>
+				</div>
+			</div>
 		</div>
+		<div class="col-sm-6 col-md-4">
+			<div class="thumbnail">
+				<img src="../images/NineProject/.jpg">
+				<div class="caption">
+					<p>
+						
+					</p>
+				</div>
+			</div>
 	</div>
 </div>
 <?php

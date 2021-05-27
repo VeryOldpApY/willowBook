@@ -19,7 +19,7 @@
 					<p>
 						Alice in darkland et sailor moon vaudou<br>
 						09/01/2019<br>
-						Crayons de couleurs<br>
+						Crayons de couleurs, liner noir<br>
 						Inspiré des poupées vaudou
 					</p>
 				</div>
@@ -32,8 +32,8 @@
 					<p>
 						Martine, la plante pirahna<br>
 						17/01/2019<br>
-					   Crayons gris, Crayons de couleurs<br>
-						Pointillisme
+					   Crayons gris, Crayons de couleurs, liner noir<br>
+						Style : Pointillisme
 					</p>
 				</div>
 			</div>
@@ -45,7 +45,7 @@
 					<p>
 						Eleven<br>
 						08/07/2019<br>
-						Crayons de couleurs, Posca blanc<br>
+						Crayons de couleurs, Posca blanc, liner noir<br>
 						Inspiré de Pinterest
 					</p>
 				</div>
@@ -60,7 +60,7 @@
 					<p>
 						Polina<br>
 						04/10/2019<br>
-						Crayons de couleurs<br>
+						Crayons de couleurs, stylo bic noir<br>
 						Inspiré de Instagram
 					</p>
 				</div>
@@ -73,7 +73,7 @@
 					<p>
 						Lolita<br>
 						18/11/2020<br>
-						Crayons de couleurs<br>
+						Crayons de couleurs, liner noir<br>
 						Inspiré de #acatcie
 					</p>
 				</div>
@@ -86,7 +86,7 @@
 					<p>
 						Elsa et Wednesday<br>
 						31/12/2020<br>
-						Crayons de couleurs<br>
+						Crayons de couleurs, liner noir<br>
 						Inspiré de Pinterest
 					</p>
 				</div>
@@ -101,7 +101,7 @@
 					<p>
 						Octocream<br>
 					    19/01/2021<br>
-					    Crayons de couleurs<br>
+					    Crayons de couleurs, liner noir<br>
 						Inspiré de Pinterest
 					</p>
 				</div>
@@ -114,7 +114,7 @@
 					<p>
                         Vaniah<br>
 					    18/03/2021<br>
-						Crayons de couleurs<br>
+						Crayons de couleurs, liner noir<br>
 						Inspiré de #acatcie
 						
 					</p>
@@ -128,7 +128,7 @@
 					<p>
 						Anthéa<br>
 						18/10/2020<br>
-						Crayon de couleurs<br>
+						Crayon de couleurs, liner noir<br>
 						Inspiré d'une photo d'une amie
 					</p>
 				</div>
