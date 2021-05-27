@@ -33,7 +33,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/OnProject/1.jpg">
+				<img src="../images/OneProject/1.jpg">
 				<div class="caption">
 					<p>
 						11/03/2021<br>

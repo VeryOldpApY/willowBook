@@ -136,8 +136,6 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-6 col-md-2">
-		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
 				<img src="../images/FiveProject/6.jpg">
@@ -172,15 +170,30 @@
 						Berlioz des Aristochats<br>
 						24/04/2021<br>
 						Crayons de couleurs, liner et feutre vert
+					</p>
+				</div>
+			</div>
+		</div>
 	</div>
-	<div class="col-sm-6 col-md-4">
-			<div class="thumbnail">
-				<img src="../images/FiveProject/2.jpg">
-				<div class="caption">
-					<p>
-						Thomas des Aristochats<br>
-						24/04/2021<br>
-						Crayons de couleurs, liner et feutre bleu
+	<div class="row">
+		<div class="col-sm-6 col-md-4">
+		</div>
+		<div class="col-sm-6 col-md-4">
+				<div class="thumbnail">
+					<img src="../images/FiveProject/2.jpg">
+					<div class="caption">
+						<p>
+							Thomas des Aristochats<br>
+							24/04/2021<br>
+							Crayons de couleurs, liner et feutre bleu
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		</div>
+	</div>
 </div>
 <?php
 	include("footer.html")

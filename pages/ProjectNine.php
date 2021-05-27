@@ -52,11 +52,12 @@
 						Signe du Taureau (21 avril au 21 mai)<br>
 						22/03/2021<br>
 						Crayons de couleurs, liner noir
-					
 					</p>
 				</div>
 			</div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
 				<img src="../images/NineProject/0.jpg">
@@ -97,6 +98,8 @@
 				</div>
 			</div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
 				<img src="../images/NineProject/6.jpg">
@@ -119,6 +122,7 @@
 					</p>
 				</div>
 			</div>
+		</div>
 	</div>
 </div>
 <?php
