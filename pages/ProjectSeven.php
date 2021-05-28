@@ -39,7 +39,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/3.jpg">
+				<img class="little" src="../images/SevenProject/3.jpg">
 				<div class="caption">
 					<p>
 					    God Pickalchue<br>

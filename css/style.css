@@ -4814,7 +4814,11 @@ tbody.collapse.in {
 }
 .navbar-brand > img {
   display: block;
-  padding: 0vw;
+}
+
+img.navbar-brand
+{
+  padding: 0% !important;
 }
 
 @media (min-width: 768px) {
@@ -5541,6 +5545,11 @@ a.badge:hover, a.badge:focus {
 .thumbnail .caption {
   padding: 9px;
   color: #ffffff;
+}
+
+.thumbnail > .little
+{
+  width: 100%;
 }
 
 a.thumbnail:hover,

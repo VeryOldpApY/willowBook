@@ -101,6 +101,8 @@
 	</div>
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
+		</div>
+		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
 				<img src="../images/NineProject/6.jpg">
 				<div class="caption">
@@ -112,6 +114,8 @@
 					</p>
 				</div>
 			</div>
+		</div>
+		<div class="col-sm-6 col-md-4">
 		</div>
 	</div>
 </div>

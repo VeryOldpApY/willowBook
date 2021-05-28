@@ -13,9 +13,6 @@
 	</div>
 	<div class="row">
 		<div class="col-sm-6 col-md-2">
-				  </p>
-				</div>
-			</div>
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
