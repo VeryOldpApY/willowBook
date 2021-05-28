@@ -19,9 +19,10 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (4).jpg">
+				<img src="../images/TwoProject/3.jpg">
 				<div class="caption">
 					<p>
+					    Inktober 2019 : "Build"<br>
 						05/10/2019<br>
 						Stylo
 					</p>
@@ -30,7 +31,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (2).jpg">
+				<img src="../images/TwoProject/1.jpg">
 				<div class="caption">
 					<p>
 						18/10/2020<br>
@@ -41,7 +42,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (3).jpg">
+				<img src="../images/TwoProject/2.jpg">
 				<div class="caption">
 					<p>
 						18/10/2020<br>
@@ -54,7 +55,7 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (5).jpg">
+				<img src="../images/TwoProject/4.jpg">
 				<div class="caption">
 					<p>
 						18/10/2020<br>
@@ -65,9 +66,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (7).jpg">
+				<img src="../images/TwoProject/6.jpg">
 				<div class="caption">
-					<p>
+					<p> 
+					    Inktober 2019 : "Ash"<br>
 						25/10/2020<br>
 						Crayons de couleurs
 					</p>
@@ -76,7 +78,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (6).jpg">
+				<img src="../images/TwoProject/5.jpg">
 				<div class="caption">
 					<p>
 						25/03/2021<br>
@@ -91,7 +93,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/main (8).jpg">
+				<img src="../images/TwoProject/7.jpg">
 				<div class="caption">
 					<p>
 						25/03/2021<br>

@@ -14,9 +14,10 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (3).jpg">
+				<img src="../images/SevenProject/2.jpg">
 				<div class="caption">
 					<p>
+					    The Ring x The Teletubbies<br>
 						05/01/2019<br>
 						Crayons de couleurs, Crayons gris
 					</p>
@@ -25,9 +26,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (5).jpg">
+				<img src="../images/SevenProject/4.jpg">
 				<div class="caption">
 					<p>
+                         Picklechu et Picackle<br>
 						02/01/2020<br>
 						Crayons de couleurs<br>
 						Reproduction de GameGrumps
@@ -37,9 +39,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (4).jpg">
+				<img src="../images/SevenProject/3.jpg">
 				<div class="caption">
 					<p>
+					    God Pickalchue<br>
 						02/01/2020<br>
 						Crayons de couleurs<br>
 						Reproduction de GameGrumps
@@ -51,9 +54,10 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (7).jpg">
+				<img src="../images/SevenProject/6.jpg">
 				<div class="caption">
-					<p>
+					<p> 
+					     Frankenstein<br>
 						10/04/2020<br>
 						Crayons de couleurs
 					</p>
@@ -62,9 +66,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (9).jpg">
+				<img src="../images/SevenProject/8.jpg">
 				<div class="caption">
-					<p>
+					<p>  
+					    Ludovic<br>
 						11/04/2020<br>
 						Crayons de couleurs
 					</p>
@@ -73,9 +78,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (2).jpg">
+				<img src="../images/SevenProject/1.jpg">
 				<div class="caption">
 					<p>
+					    Thriller<br>
 						06/05/2020<br>
 						Crayons de couleurs, Crayons gris, Post-It
 					</p>
@@ -86,9 +92,10 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (8).jpg">
+				<img src="../images/SevenProject/7.jpg">
 				<div class="caption">
 					<p>
+					    Evil Georgie<br>
 						06/05/2020<br>
 						Crayons de couleurs, Liner rouge<br>
 						Inspiré du Roman "Ça" de Stephen King
@@ -98,9 +105,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (6).jpg">
+				<img src="../images/SevenProject/5.jpg">
 				<div class="caption">
 					<p>
+					    Evil clown<br>
 						10/12/2020<br>
 						Crayons de couleurs, Feutre vert<br>
 						Challenge Inktobeur (une couleur par jour)
@@ -110,7 +118,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/monster (10).jpg">
+				<img src="../images/SevenProject/9.jpg">
 				<div class="caption">
 					<p>
 						14/01/2021<br>

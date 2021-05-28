@@ -23,9 +23,10 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/love (4).jpg">
+				<img src="../images/ThreeProject/3.jpg">
 				<div class="caption">
 					<p>
+					    Création de Chana<br>
 						03/04/2020<br>
 						Stylo
 					</p>
@@ -34,9 +35,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/love (5).jpg">
+				<img src="../images/ThreeProject/4.jpg">
 				<div class="caption">
 					<p>
+					    Création de Camille<br>
 						03/04/2020<br>
 						Stylo
 					</p>
@@ -45,9 +47,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/love (2).jpg">
+				<img src="../images/ThreeProject/1.jpg">
 				<div class="caption">
 					<p>
+					    Brouillon du projet<br>
 						04/05/2020<br>
 						Crayons de couleurs
 					</p>
@@ -60,9 +63,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/love (3).jpg">
+				<img src="../images/ThreeProject/2.jpg">
 				<div class="caption">
 					<p>
+					    Esquisse du projet<br>
 						05/04/2020<br>
 						Crayons de couleurs
 					</p>
@@ -71,9 +75,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/love (1).jpg">
+				<img src="../images/ThreeProject/0.jpg">
 				<div class="caption">
 					<p>
+					    A love story<br>
 						06/04/2020<br>
 						Crayons de couleurs
 					</p>

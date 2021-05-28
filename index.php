@@ -158,9 +158,9 @@
 					Ce projet met en valeur les différents personnages des séries dites "sailor" dans différents 
 					contextes. Tout d'abord il y a la présentation de la série avec ses différents personnages allant 
 					de la préféré à la détestée vêtues de leurs tenues civiles et sailors, ainsi qu'avec leur nom,
-					 âge, symbole et image de référence. Ensuite il y aura des personnages de ses mêmes séries
-					 et de séries, films et livres lambda revisités en différentes sailors. 
-					 Enfin, la troisième partie regroupe mes OCs pour chaque séries "sailor".
+					âge, symbole et image de référence. Ensuite il y aura des personnages de ses mêmes séries
+					et de séries, films et livres lambda revisités en différentes sailors. 
+					Enfin, la troisième partie regroupe mes OCs pour chaque séries "sailor".
 				</p>
 				<p><a href="pages/ProjectEleven.php" class="btn btn-primary">Évolution</a></p>
 			</div>
@@ -171,7 +171,7 @@
 				<h2>Twelfth Project</h2>
 				<p>
 					Mon projet dévoile mes OCs (original characters) qui sont mes personnages originaux
-					 de manière édulcorer et de manière plus complexes avec leur histoire et leurs personnalitées. 
+				    de manière édulcorer et de manière plus complexes avec leur histoire et leurs personnalitées. 
 				</p>
 				<p><a href="pages/ProjectTwelve.php" class="btn btn-primary">Évolution</a></p>
 			</div>
@@ -182,8 +182,8 @@
 				<h2>Thirteenth Project</h2>
 				<p>
 					Ce projet centralise mes préférences à travers les différents personnages dans le registre
-					 de la littérature (romans,BD,manga), et du cinéma (films,séries,animés,dessins animé). 
-					 Ce projet reste en suspend pour une éventuelle mise en oeuvre. 
+					de la littérature (romans,BD,manga), et du cinéma (films,séries,animés,dessins animé). 
+					Ce projet reste en suspend pour une éventuelle mise en oeuvre. 
 				</p>
 				<p><a href="pages/ProjectThirteen.php" class="btn btn-primary">Évolution</a></p>
 			</div>
