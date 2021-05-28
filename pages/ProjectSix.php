@@ -14,7 +14,7 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/1.jpg">
+				<img src="../images/SixProject/1.jpg">
 				<div class="caption">
 					<p> 
 					    Slimmy<br>
@@ -26,7 +26,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/5.jpg">
+				<img src="../images/SixProject/5.jpg">
 				<div class="caption">
 					<p>
 					    Create art<br>
@@ -38,7 +38,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/3.jpg">
+				<img src="../images/SixProject/3.jpg">
 				<div class="caption">
 					<p> 
 					    Lollipop<br>
@@ -52,7 +52,7 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/2.jpg">
+				<img src="../images/SixProject/2.jpg">
 				<div class="caption">
 					<p>
 					    Cotton candy<br>
@@ -64,7 +64,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/4.jpg">
+				<img src="../images/SixProject/4.jpg">
 				<div class="caption">
 					<p>
 					    Hamburger<br>
@@ -76,7 +76,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/9.jpg">
+				<img src="../images/SixProject/9.jpg">
 				<div class="caption">
 					<p>
 					    Pretzel<br>
@@ -90,7 +90,7 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/8.jpg">
+				<img src="../images/SixProject/8.jpg">
 				<div class="caption">
 					<p>
 					     Corn<br>
@@ -102,7 +102,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/7.jpg">
+				<img src="../images/SixProject/7.jpg">
 				<div class="caption">
 					<p>
 					    Popcorn<br>
@@ -114,7 +114,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/SevenProject/6.jpg">
+				<img src="../images/SixProject/6.jpg">
 				<div class="caption">
 					<p>
 					    Monster's eye<br>

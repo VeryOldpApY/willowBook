@@ -13,10 +13,6 @@
 	</div>
 	<div class="row">
 		<div class="col-sm-6 col-md-2">
-			<div class="thumbnail">
-				<img src="../images/Project/main (4).jpg">
-				<div class="caption">
-					<p>
 				  </p>
 				</div>
 			</div>
@@ -48,10 +44,6 @@
 	</div>
 	<div class="row">
 		<div class="col-sm-6 col-md-2">
-			<div class="thumbnail">
-				<img src="../images/Project/main (5).jpg">
-				<div class="caption">
-					<p>
 					</p>
 				</div>
 			</div>
