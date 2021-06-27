@@ -20,33 +20,34 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/blonde (3).jpg">
+				<img src="../images/FourProject/2.jpg">
 				<div class="caption">
 					<p>
 						18/05/2020<br>
-						Crayons de couleurs, Marqueur couleur or
+						Crayons de couleurs, Marqueur couleur or, liner noir
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/blonde (1).jpg">
+				<img src="../images/FourProject/1.jpg">
 				<div class="caption">
 					<p>
 						18/05/2020<br>
-						Crayons de couleurs, Marqueur couleur or
+						Crayons de couleurs, Marqueur couleur or, liner noir
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/blonde (2).jpg">
+				<img src="../images/FourProject/0.jpg">
 				<div class="caption">
 					<p>
+					    Naula<br>
 						18/05/2020<br>
-						Crayons de couleurs, Marqueur couleur or
+						Crayons de couleurs, Marqueur couleur or, liner noir
 					</p>
 				</div>
 			</div>

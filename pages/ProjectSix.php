@@ -14,9 +14,10 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (2).jpg">
+				<img src="../images/SixProject/1.jpg">
 				<div class="caption">
-					<p>
+					<p> 
+					    Slimmy<br>
 						2019<br>
 						Crayons de couleurs, Feutres
 					</p>
@@ -25,9 +26,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (6).jpg">
+				<img src="../images/SixProject/5.jpg">
 				<div class="caption">
 					<p>
+					    Create art<br>
 						10/06/2019<br>
 						Crayons de couleurs, Liner rouge
 					</p>
@@ -36,9 +38,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (4).jpg">
+				<img src="../images/SixProject/3.jpg">
 				<div class="caption">
-					<p>
+					<p> 
+					    Lollipop<br>
 						29/07/2019<br>
 						Crayons de couleurs, Feutres, Pastels sec
 					</p>
@@ -49,9 +52,10 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (3).jpg">
+				<img src="../images/SixProject/2.jpg">
 				<div class="caption">
 					<p>
+					    Cotton candy<br>
 						29/07/2019<br>
 						Crayons de couleurs, Feutres, Pastels sec
 					</p>
@@ -60,9 +64,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (5).jpg">
+				<img src="../images/SixProject/4.jpg">
 				<div class="caption">
 					<p>
+					    Hamburger<br>
 						13/08/2019<br>
 						Crayons de couleurs, Feutres
 					</p>
@@ -71,9 +76,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (10).jpg">
+				<img src="../images/SixProject/9.jpg">
 				<div class="caption">
 					<p>
+					    Pretzel<br>
 						14/08/2019<br>
 						Crayons de couleurs, Feutres
 					</p>
@@ -84,9 +90,10 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (9).jpg">
+				<img src="../images/SixProject/8.jpg">
 				<div class="caption">
 					<p>
+					     Corn<br>
 						16/08/2019<br>
 						Crayons de couleurs, Feutres
 					</p>
@@ -95,9 +102,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (8).jpg">
+				<img src="../images/SixProject/7.jpg">
 				<div class="caption">
 					<p>
+					    Popcorn<br>
 						01/12/2019<br>
 						Crayons de couleurs, Feutres
 					</p>
@@ -106,9 +114,10 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="../images/Project/doodle (7).jpg">
+				<img src="../images/SixProject/6.jpg">
 				<div class="caption">
 					<p>
+					    Monster's eye<br>
 						24/12/2019<br>
 						Crayons de couleurs, Feutres
 					</p>

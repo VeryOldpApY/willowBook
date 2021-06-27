@@ -13,7 +13,7 @@
 	</div>
 	<div id="fh5co-portfolio">
 		<div class="fh5co-portfolio-item">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/triangle\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/OneProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Fisrt Project</h2>
 				<p>
@@ -28,7 +28,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/main\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/TwoProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Second Project</h2>
 				<p>
@@ -41,7 +41,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/love\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/ThreeProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Third Project</h2>
 				<p>
@@ -59,7 +59,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/blonde\ \(2\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/FourProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Fourth Project</h2>
 				<p>
@@ -74,7 +74,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/all\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/FiveProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Fifth Project</h2>
 				<p>
@@ -89,7 +89,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/doodle\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/SixProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Sixth Project</h2>
 				<p>
@@ -103,7 +103,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/monster\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/SevenProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Seventh Project</h2>
 				<p>
@@ -115,7 +115,7 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/visage\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/EightProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Eighth Project</h2>
 				<p>
@@ -130,51 +130,60 @@
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/monster\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/NineProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Ninth Project</h2>
 				<p>
-					Ce projet met en valeur mes différentes peintures sans qu'il n'y ait de liens particuliers entre elles.
+				  	Mon projet regroupe et sublime les signes du zodiaque et du zodiaque chinois en version humanisée 
+					représenter à l'intérieur d'un cercle.
 				</p>
 				<p><a href="pages/ProjectNine.php" class="btn btn-primary">Évolution</a></p>
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/visage\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/TenProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Tenth Project</h2>
 				<p>
-					Mon projet regroupe et sublime les signes du zodiaque et du zodiaque chinois en version humanisée représenter à l'intérieur d'un cercle. 
+					Ce projet met en valeur mes différentes peintures sans qu'il n'y ait de liens particuliers entre elles.
 				</p>
 				<p><a href="pages/ProjectTen.php" class="btn btn-primary">Évolution</a></p>
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/monster\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/ElevenProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Eleventh Project</h2>
 				<p>
-					Ce projet met en valeur les différents personnages des séries dites "sailor" dans différents contextes. Tout d'abord il y a la présentation de la série avec ses différents personnages allant de la préféré à la détestée vêtues de leurs tenues civiles et sailors, ainsi qu'avec leur nom, âge, symbole et image de référence. Ensuite il y aura des personnages de ses mêmes séries et de séries, films et livres lambda revisités en différentes sailors. Enfin, la troisième partie regroupe mes OCs pour chaque séries "sailor".
+					Ce projet met en valeur les différents personnages des séries dites "sailor" dans différents 
+					contextes. Tout d'abord il y a la présentation de la série avec ses différents personnages allant 
+					de la préféré à la détestée vêtues de leurs tenues civiles et sailors, ainsi qu'avec leur nom,
+					âge, symbole et image de référence. Ensuite il y aura des personnages de ses mêmes séries
+					et de séries, films et livres lambda revisités en différentes sailors. 
+					Enfin, la troisième partie regroupe mes OCs pour chaque séries "sailor".
 				</p>
 				<p><a href="pages/ProjectEleven.php" class="btn btn-primary">Évolution</a></p>
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item fh5co-img-right">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/visage\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/TwelveProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Twelfth Project</h2>
 				<p>
-					Mon projet dévoile mes OCs (original characters) qui sont mes personnages originaux de manière édulcorer et de manière plus complexes avec leur histoire et leurs personnalitées. 
+					Mon projet dévoile mes OCs (original characters) qui sont mes personnages originaux
+				    de manière édulcorer et de manière plus complexes avec leur histoire et leurs personnalitées. 
 				</p>
 				<p><a href="pages/ProjectTwelve.php" class="btn btn-primary">Évolution</a></p>
 			</div>
 		</div>
 		<div class="fh5co-portfolio-item">
-			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/Project/monster\ \(1\).jpg);"></div>
+			<div class="fh5co-portfolio-figure animate-box"	style="background-image: url(images/ThirteenProject/0.jpg);"></div>
 			<div class="fh5co-portfolio-description animate-box">
 				<h2>Thirteenth Project</h2>
 				<p>
-					Ce projet centralise mes préférences à travers les différents personnages dans le registre de la littérature (romans,BD,manga), et du cinéma (films,séries,animés,dessins animé). Ce projet reste en suspend pour une éventuelle mise en oeuvre. 
+					Ce projet centralise mes préférences à travers les différents personnages dans le registre
+					de la littérature (romans,BD,manga), et du cinéma (films,séries,animés,dessins animé). 
+					Ce projet reste en suspend pour une éventuelle mise en oeuvre. 
 				</p>
 				<p><a href="pages/ProjectThirteen.php" class="btn btn-primary">Évolution</a></p>
 			</div>
